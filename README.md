@@ -9,3 +9,7 @@
 ## SENTENCIAS UTILIZADAS
 
 [![sentencias-Sql-Zas-Herrera.png](https://i.postimg.cc/qqB7xyg9/sentencias-Sql-Zas-Herrera.png)](https://postimg.cc/cgjZsKRm)
+
+## Diagrama
+
+[2023-11-28-191952.png](https://postimg.cc/HrphJYk1)
