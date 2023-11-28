@@ -2,8 +2,9 @@
 
 ##ESTRUCTURA DE LA BASE
 
-[url=https://postimg.cc/gXrmFyZj][img]https://i.postimg.cc/gXrmFyZj/estructura-Tabla-registros-Insertados-Zas-Herrera.png[/img][/url]
+[![estructura-tabla-registros.png](https://i.postimg.cc/gXrmFyZj/estructura-Tabla-registros-Insertados-Zas-Herrera.png)](https://postimg.cc/gXrmFyZj)
 
 ##SENTENCIAS UTILIZADAS
 
-[url=https://postimg.cc/cgjZsKRm][img]https://i.postimg.cc/cgjZsKRm/sentencias-Sql-Zas-Herrera.png[/img][/url]
+[![sentencias-sql.png](https://i.postimg.cc/cgjZsKRm/sentencias-Sql-Zas-Herrera.png)](https://postimg.cc/cgjZsKRm)
+
