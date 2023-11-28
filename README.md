@@ -12,4 +12,4 @@
 
 ## Diagrama
 
-[2023-11-28-191952.png](https://postimg.cc/HrphJYk1)
+[![2023-11-28-191952.png](https://i.postimg.cc/rwWXPz6s/2023-11-28-191952.png)](https://postimg.cc/HrphJYk1)
