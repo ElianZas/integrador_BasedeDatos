@@ -2,6 +2,8 @@
 
 ## ESTRUCTURA DE LA BASE
 
+[![estructura-Sql-Zas-Herrera.png](https://i.postimg.cc/wjxLWRRc/estructura-Sql-Zas-Herrera.png)](https://postimg.cc/gn5xjJDn)
+
 [![estructura-Tabla-registros-Insertados-Zas-Herrera.png](https://i.postimg.cc/KvZ9tzfB/estructura-Tabla-registros-Insertados-Zas-Herrera.png)](https://postimg.cc/5jRqVfZ2)
 
 ## SENTENCIAS UTILIZADAS
